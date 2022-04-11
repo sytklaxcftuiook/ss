@@ -7,7 +7,7 @@
       "value": "chacha20-ietf-poly1305"
     },
     "PASS": {
-      "description": "Your password.",
+      "description": "erk654ajhk",
       "generator": "secret"
     }
   }
